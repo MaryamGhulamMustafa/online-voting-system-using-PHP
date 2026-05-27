@@ -35,8 +35,8 @@ Web-based voting system built with PHP and MySQL.
 
 ### Admin Account
 
-- Username: harie
-- Password: dummy_password
+- Username: Maryam
+- Password: Maryam Bibi_password
 
 ## Troubleshooting
 
